@@ -1,4 +1,5 @@
-<img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-## Lógica com Javascript
+<img align="center" alt="Java" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176305982-bdf4c565-43a5-4e0e-aab1-1561f766875f.png">
 
-7 desafios independentes para quem está começando na programação
+## Java
+
+Consumindo a API de filmes do IMDB e criando uma página HTML de exibição
